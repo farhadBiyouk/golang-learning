@@ -1,0 +1,13 @@
+{"level":"info","AppName":"my app","order":{"ID":1,"UserFullName":"John Doe","UserId":"09115252524","Price":100,"Status":true,"NotificationType":"Email"},"time":"2025-02-28T14:09:25-05:00","message":"created order"}
+{"level":"info","AppName":"my app","order":{"ID":2,"UserFullName":"John Mac","UserId":"09123332221","Price":220,"Status":true,"NotificationType":"Sms"},"time":"2025-02-28T14:09:25-05:00","message":"created order"}
+{"level":"info","AppName":"my app","order":{"ID":3,"UserFullName":"Reza Mac","UserId":"09991252525","Price":210,"Status":true,"NotificationType":""},"time":"2025-02-28T14:09:25-05:00","message":"created order"}
+{"level":"error","AppName":"my app","error":"order price is invalid","time":"2025-02-28T15:40:28-05:00","message":"order 1 is not valid`"}
+{"level":"info","AppName":"my app","order":{"ID":2,"UserFullName":"John Mac","UserId":"09123332221","Price":220,"Status":true,"NotificationType":"Sms"},"time":"2025-02-28T15:40:28-05:00","message":"created order"}
+{"level":"info","AppName":"my app","notifier":"nilNotifyService","messageInfo":{"receiver":"09123332221","message":"Order created"},"time":"2025-02-28T15:40:28-05:00","message":"Message sent"}
+{"level":"info","AppName":"my app","order":{"ID":3,"UserFullName":"Reza Mac","UserId":"09991252525","Price":210,"Status":true,"NotificationType":""},"time":"2025-02-28T15:40:28-05:00","message":"created order"}
+{"level":"info","AppName":"my app","notifier":"nilNotifyService","messageInfo":{"receiver":"09991252525","message":"Order created"},"time":"2025-02-28T15:40:28-05:00","message":"Message sent"}
+{"level":"error","AppName":"my app","entity info":{"ID":1,"UserFullName":"John Doe","UserId":"09115252524","Price":100,"Status":true,"NotificationType":"Email"},"error":"order price is invalid","time":"2025-02-28T15:42:08-05:00","message":"order 1 is not valid`"}
+{"level":"info","AppName":"my app","order":{"ID":2,"UserFullName":"John Mac","UserId":"09123332221","Price":220,"Status":true,"NotificationType":"Sms"},"time":"2025-02-28T15:42:08-05:00","message":"created order"}
+{"level":"info","AppName":"my app","notifier":"nilNotifyService","messageInfo":{"receiver":"09123332221","message":"Order created"},"time":"2025-02-28T15:42:08-05:00","message":"Message sent"}
+{"level":"info","AppName":"my app","order":{"ID":3,"UserFullName":"Reza Mac","UserId":"09991252525","Price":210,"Status":true,"NotificationType":""},"time":"2025-02-28T15:42:08-05:00","message":"created order"}
+{"level":"info","AppName":"my app","notifier":"nilNotifyService","messageInfo":{"receiver":"09991252525","message":"Order created"},"time":"2025-02-28T15:42:08-05:00","message":"Message sent"}
